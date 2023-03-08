@@ -1,4 +1,4 @@
-# IoT-Lab2 (Sovial Sonzeu & Sophia Canja)
+# IoT-Lab2 (Sophia Canja & Sovial Sonzeu)
 
 ## Youtube Link To Video Demo
 https://www.youtube.com/watch?v=cO7RWHjlYTk
